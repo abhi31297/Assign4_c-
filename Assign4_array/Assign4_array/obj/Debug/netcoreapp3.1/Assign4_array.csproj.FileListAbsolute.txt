@@ -1,0 +1,11 @@
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\bin\Debug\netcoreapp3.1\Assign4_array.exe
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\bin\Debug\netcoreapp3.1\Assign4_array.deps.json
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\bin\Debug\netcoreapp3.1\Assign4_array.runtimeconfig.json
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\bin\Debug\netcoreapp3.1\Assign4_array.runtimeconfig.dev.json
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\bin\Debug\netcoreapp3.1\Assign4_array.dll
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\bin\Debug\netcoreapp3.1\Assign4_array.pdb
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\obj\Debug\netcoreapp3.1\Assign4_array.csprojAssemblyReference.cache
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\obj\Debug\netcoreapp3.1\Assign4_array.AssemblyInfoInputs.cache
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\obj\Debug\netcoreapp3.1\Assign4_array.AssemblyInfo.cs
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\obj\Debug\netcoreapp3.1\Assign4_array.dll
+C:\Users\abhis\source\repos\Assign4_array\Assign4_array\obj\Debug\netcoreapp3.1\Assign4_array.pdb
