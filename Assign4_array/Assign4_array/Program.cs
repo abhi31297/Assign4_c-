@@ -16,7 +16,7 @@ namespace Assign4_array
 
             Console.WriteLine();
 
-            things[1] = "Mouse";
+            things[1] = "Home";
             Console.WriteLine(things[1]);
             Console.WriteLine();
 
